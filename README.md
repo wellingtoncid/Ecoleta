@@ -1,3 +1,7 @@
+<p align="center">
+    <img src=".github/assests/ecoleta.png"></img>
+</p>
+
 # Ecoleta | Project Learning NLW Next Level Week - Rocketseat
 
 Ecoleta is an application project to connect collection points for recycling with people who have waste for disposal.
