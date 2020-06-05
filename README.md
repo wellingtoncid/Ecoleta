@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assests/ecoleta.png"></img>
+    <img src="assets/ecoleta.png"></img>
 </p>
 
 # Ecoleta | Project Learning NLW Next Level Week - Rocketseat
