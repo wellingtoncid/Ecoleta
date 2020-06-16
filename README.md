@@ -1,61 +1,76 @@
+<h1 align="center">
+    <img alt="Ecoleta" title="Ecoleta" src="assets/logo.svg" width="220px" />
+</h1>
+
 <p align="center">
-    <img src="assets/ecoleta.png"></img>
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
-# Ecoleta | Project Learning NLW Next Level Week - Rocketseat
+<p align="center">
+ <img alt="Made by Wellington Cid" src="https://img.shields.io/badge/made%20by-Wellington%20Cid-%23F8952D">
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+    <img alt="Ecoleta" src="assets/ecoleta.png" widht="100%">
+</p>
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+* [Node.js]
+* [Express]
+* [SQLite]
+* [Nunjucks]
+* [React]
+* [ReactNative]
+* [TypeScript]
+* [jQuery] 
+
+## 💻 Project
 
 Ecoleta is an application project to connect collection points for recycling with people who have waste for disposal.
 
 This project can help people who do not know what to do or are disposing of waste in an irregular way with institutions that can dispose of waste properly. Preserving the environment and community life can be made easier through this application.
 
-### Tech
+## 🔖 Layout
+You can view the project layout in the format through [this link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Remembering that you will need to have an account at [Figma]. 
 
-Ecoleta uses a number of open source projects to work properly:
+## 🤔 How to contribute
 
-* [React](https://reactjs.org) 
-* [React Native](https://facebook.github.io/react-native/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [node.js]
-* [jQuery] 
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-Ecoleta itself is open source with a [public repository][ecoleta] on GitHub.
+After the merge of your pull request is done, you can delete your branch.
 
-### Installation
+## :memo: License
 
-Ecoleta requires [Node.js](https://nodejs.org/) v4+ to run.
+This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
 
-Install the dependencies and devDependencies and start the server.
+Made by [Wellington Cid](https://linkedin.com/in/wellingtoncid) with [Rocketseat](https://rocketseat.com.br) support.
 
-### Development
-
-Want to contribute? Great!
-
-Ecoleta uses Javascript for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-
-### Todos
-
- - Write MORE Tests and Informations
- - Add new feactures
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 ----
 
 
    [ecoleta]: <https://github.com/wellingtoncid/Ecoleta>
    [React]: <https://reactjs.org/>
-   [React Native]: <https://facebook.github.io/react-native/>
+   [ReactNative]: <https://facebook.github.io/react-native/>
    [TypeSript]: <https://www.typescriptlang.org/>
-   [node.js]: <http://nodejs.org>
+   [Express]:<https://expressjs.com/>
+   [Node.js]: <http://nodejs.org>
    [jQuery]: <http://jquery.com>
    [@wellingtoncid]: <http://twitter.com/wellingtoncid>
    [@wellingtoncid/in]: <http://linkedin.com/in/wellingtoncid>
+   [SQLite]: <https://www.sqlite.org/index.html>
+   [Nunjucks]: <https://mozilla.github.io/nunjucks/>
+   [Figma]: <https://figma.com/>
