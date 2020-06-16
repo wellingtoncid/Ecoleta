@@ -55,11 +55,12 @@ After the merge of your pull request is done, you can delete your branch.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
+----
 
 Made by [Wellington Cid](https://linkedin.com/in/wellingtoncid) with [Rocketseat](https://rocketseat.com.br) support.
 
-----
 
 
    [ecoleta]: <https://github.com/wellingtoncid/Ecoleta>
