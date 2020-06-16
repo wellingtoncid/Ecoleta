@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-    <img alt="Ecoleta" src="assets/ecoleta.png" widht="100%">
+    <img alt="Ecoleta" src="./public/assets/ecoleta.png" widht="100%">
 </p>
 
 ## 🚀 Technologies
@@ -66,7 +66,7 @@ Made by [Wellington Cid](https://linkedin.com/in/wellingtoncid) with [Rocketseat
    [ecoleta]: <https://github.com/wellingtoncid/Ecoleta>
    [React]: <https://reactjs.org/>
    [ReactNative]: <https://facebook.github.io/react-native/>
-   [TypeSript]: <https://www.typescriptlang.org/>
+   [TypeScript]: <https://www.typescriptlang.org/>
    [Express]:<https://expressjs.com/>
    [Node.js]: <http://nodejs.org>
    [jQuery]: <http://jquery.com>
