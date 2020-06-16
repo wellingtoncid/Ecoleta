@@ -6,7 +6,7 @@
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how to contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -44,7 +44,7 @@ This project can help people who do not know what to do or are disposing of wast
 ## 🔖 Layout
 You can view the project layout in the format through [this link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Remembering that you will need to have an account at [Figma]. 
 
-## 🤔 How to contribute
+## :contribute: 🤔 How to contribute
 
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`;
